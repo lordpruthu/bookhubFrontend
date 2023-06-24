@@ -1,0 +1,23 @@
+.carousel-caption {
+    position: absolute;
+    text-decoration-color: black;
+    color: black;
+    top:40px;
+    font-weight: bolder;
+    font-size: 30px;
+    margin-left: 40%;    
+ }
+
+ .h5 {
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    text-decoration-color: black;
+ }
+
+ .h3 {
+    font-size: 30px;
+    
+    color: black;
+    text-decoration-color: black;
+ }
